@@ -1,0 +1,18 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "theroundtable:hufbafa": {
+    "textures": {
+      "up": "theroundtable_hufbafa_up",
+      "down": "theroundtable_hufbafa_down",
+      "south": "theroundtable_hufbafa_south",
+      "north": "theroundtable_hufbafa_north",
+      "west": "theroundtable_hufbafa_west",
+      "east": "theroundtable_hufbafa_east"
+    },
+    "sound": "gravel"
+  }
+}

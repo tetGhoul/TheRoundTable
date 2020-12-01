@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "TheRoundTable",
+    "uuid": "c3bedb25-9ff1-3953-bd60-879e57d23c05",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "8db2ee3a-5d97-3371-95d2-df36a754708b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "fd79e8ce-a2d2-3714-adc7-62149207be4e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "kenzi, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

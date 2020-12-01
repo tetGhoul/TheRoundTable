@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "theroundtable_hufbafa_up": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    },
+    "theroundtable_hufbafa_down": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    },
+    "theroundtable_hufbafa_south": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    },
+    "theroundtable_hufbafa_north": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    },
+    "theroundtable_hufbafa_west": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    },
+    "theroundtable_hufbafa_east": {
+      "textures": [
+        "textures/blocks/stuff"
+      ]
+    }
+  }
+}

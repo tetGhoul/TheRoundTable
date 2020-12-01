@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "TheRoundTable",
+    "uuid": "fd79e8ce-a2d2-3714-adc7-62149207be4e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "0dcc92a6-74d7-378b-befb-730bea22e19a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "kenzi, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
